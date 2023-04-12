@@ -17,33 +17,23 @@
 
 ## Learning Resources
 
-- GitHub Skills
-(https://skills.github.com/)
+- [GitHub Skills](https://skills.github.com/)
 
-- DataCamp
-(https://www.datacamp.com/)
+- [DataCamp](https://www.datacamp.com/)
 
-- W3Schools
-(https://www.w3schools.com)
+- [W3Schools](https://www.w3schools.com)
 
-- Oracle University
-(https://mylearn.oracle.com/ou/home)
+- [Oracle University](https://mylearn.oracle.com/ou/home)
 
-- neo4j
-(https://graphacademy.neo4j.com/)
+- [neo4j](https://graphacademy.neo4j.com/)
 
-- Tableau Public
-(https://public.tableau.com/app/discover)
+- [Tableau Public](https://public.tableau.com/app/discover)
 
-- FutureLearn
-(https://www.futurelearn.com/)
+- [FutureLearn](https://www.futurelearn.com/)
 
-- LinkedIn Learning
-(https://www.linkedin.com/learning)
+- [LinkedIn Learning](https://www.linkedin.com/learning)
 
-- ACCA
-(https://www.accaglobal.com)
+- [ACCA](https://www.accaglobal.com)
 
-- Sage University
-(https://sageu.com/access/su/home.html)
+- [Sage University](https://sageu.com/access/su/home.html)
 
