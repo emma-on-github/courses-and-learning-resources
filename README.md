@@ -1,4 +1,4 @@
-## GitHub Courses Completed
+## Completed GitHub Courses
 
 -	Introduction to GitHub
 
@@ -17,23 +17,24 @@
 
 ## Learning Resources
 
-- [GitHub Skills](https://skills.github.com/)
+My favourite learning resources for programming, databases, visualisations, and finance.
 
-- [DataCamp](https://www.datacamp.com/)
+-	[GitHub Skills](https://skills.github.com/)
 
-- [W3Schools](https://www.w3schools.com)
+-	[DataCamp](https://www.datacamp.com/)
 
-- [Oracle University](https://mylearn.oracle.com/ou/home)
+-	[W3Schools](https://www.w3schools.com)
 
-- [neo4j](https://graphacademy.neo4j.com/)
+-	[Oracle University](https://mylearn.oracle.com/ou/home)
 
-- [Tableau Public](https://public.tableau.com/app/discover)
+-	[neo4j](https://graphacademy.neo4j.com/)
 
-- [FutureLearn](https://www.futurelearn.com/)
+-	[Tableau Public](https://public.tableau.com/app/discover)
 
-- [LinkedIn Learning](https://www.linkedin.com/learning)
+-	[ACCA](https://www.accaglobal.com)
 
-- [ACCA](https://www.accaglobal.com)
+-	[Sage University](https://sageu.com/access/su/home.html)
 
-- [Sage University](https://sageu.com/access/su/home.html)
+-	[FutureLearn](https://www.futurelearn.com/)
 
+-	[LinkedIn Learning](https://www.linkedin.com/learning)
