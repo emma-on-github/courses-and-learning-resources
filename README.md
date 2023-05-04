@@ -1,4 +1,4 @@
-## Completed GitHub Courses
+### Completed GitHub Courses
 
 -	Introduction to GitHub
 
@@ -15,7 +15,7 @@
 -	Connect the dots
 
 
-## Learning Resources
+### Learning Resources
 
 My favourite learning resources for programming, databases, visualisations, and finance.
 
