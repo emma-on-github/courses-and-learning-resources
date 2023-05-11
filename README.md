@@ -14,6 +14,8 @@
 
 -	Connect the dots
 
+-	Hello GitHub Actions
+
 
 ### Learning Resources
 
