@@ -16,6 +16,7 @@
 
 -	Hello GitHub Actions
 
+-	Test with Actions
 
 ### Learning Resources
 
