@@ -18,6 +18,8 @@
 
 -	Test with Actions
 
+-	Secure Repository Supply Chain
+
 ### Learning Resources
 
 My favourite learning resources for programming, databases, visualisations, and finance.
