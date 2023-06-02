@@ -1,3 +1,6 @@
 title: Paul John Hicks
+logo:
 description: Completed GitHub Courses and Learning Resources
-theme: jekyll-theme -cayman
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
