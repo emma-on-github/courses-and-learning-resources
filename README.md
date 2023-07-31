@@ -1,5 +1,3 @@
-### Paul John Hicks
-
 ### Completed GitHub Courses
 
 -	Introduction to GitHub
