@@ -1,4 +1,5 @@
-### Paul John Hicks
+### Emma Louise Hicks
+
 ### Completed GitHub Courses
 
 -	Introduction to GitHub
